@@ -1,0 +1,9 @@
+  0: InputDeviceInfo {deviceId: 'default', kind: 'audioinput', label: 'Default - Microphone (Realtek Audio)', groupId: 'e9ad4fbac93fbfae36f3ff878c4c9f65230f322e55c9adb1e96b44e655573f4a'}
+1: InputDeviceInfo {deviceId: 'communications', kind: 'audioinput', label: 'Communications - Microphone (Realtek Audio)', groupId: 'e9ad4fbac93fbfae36f3ff878c4c9f65230f322e55c9adb1e96b44e655573f4a'}
+2: InputDeviceInfo {deviceId: 'e33701f2b30a289a0fee9570eb00e7c0a9adf71a33edc84a3373d1a74e3db748', kind: 'audioinput', label: 'Microphone (Realtek Audio)', groupId: 'e9ad4fbac93fbfae36f3ff878c4c9f65230f322e55c9adb1e96b44e655573f4a'}
+3: InputDeviceInfo {deviceId: 'b2ebb0a517778e03402c1b68f9e19c21da0ee2b9de68f8fda0438f29b3623dd2', kind: 'videoinput', label: 'Integrated Webcam (1bcf:28c0)', groupId: '4fe07cd8cc28dd41d69a6ff9f876e44312a00d34fef45c604a2bcc7e77724791'}
+4: MediaDeviceInfo {deviceId: 'default', kind: 'audiooutput', label: 'Default - Speakers / Headphones (Realtek Audio)', groupId: 'e9ad4fbac93fbfae36f3ff878c4c9f65230f322e55c9adb1e96b44e655573f4a'}
+5: MediaDeviceInfo {deviceId: 'communications', kind: 'audiooutput', label: 'Communications - Speakers / Headphones (Realtek Audio)', groupId: 'e9ad4fbac93fbfae36f3ff878c4c9f65230f322e55c9adb1e96b44e655573f4a'}
+6: MediaDeviceInfo {deviceId: 'f74d1b2982eaaf491c0eadc84b9d2ce3ea65f60e70996bce52995531a4940425', kind: 'audiooutput', label: 'Speakers / Headphones (Realtek Audio)', groupId: 'e9ad4fbac93fbfae36f3ff878c4c9f65230f322e55c9adb1e96b44e655573f4a'}
+length: 7
+[[Prototype]]: Array(0)
